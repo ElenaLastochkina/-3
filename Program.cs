@@ -52,7 +52,7 @@ Zadacha23();
 
 void Zadacha23()
 {
-  int index = 1;
+  int index = 0;
   while (index < number1)
   {
     index++;
